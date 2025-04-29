@@ -43,3 +43,10 @@ Run this Airflow project without installing anything locally.
 - [Astronomer Learn](https://docs.astronomer.io/learn) - Many Airflow guides and tutorials (free)
 - [Astronomer Events](https://astronomer.io/events) - Add to your calendar to never miss an event/webinar (free)
 - [Airflow Slack](apache-airflow-slack.herokuapp.com) - The best place to ask Airflow questions (free)
+
+```bash
+astro dev init
+astro dev start
+astro dev restart
+astro dev stop
+```
